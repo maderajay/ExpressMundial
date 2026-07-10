@@ -4,7 +4,7 @@ import { config } from 'dotenv';
 import { MongoClient } from 'mongodb';
 
 
-//config(); 
+config(); 
 // Para cargar variables de entorno
 
 const app = express();
